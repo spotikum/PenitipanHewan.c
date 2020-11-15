@@ -1,0 +1,74 @@
+Judul : Penitipan hewan peliharaan
+* Feature *
+- Sistem Login
+- Head Program ( tampilan awal )
+- Pilihan Penitipan/Pengambilan hewan
+- Asuransi hewan
+
+[ Penitipan ]
+• Input identitas penitip, hewan yg dititip & ket
+• Hewan sakit tidak diterima
+• Pilihan jenis hewan yang dititip:
+  1.Anjing
+  2.Kucing
+  
+[ Ras ]	 
+  1.Small
+  2.Medium
+  3.Large
+  4.Giant
+
+• Pilihan paket penitipan:
+[ Paket Penitipan ]
+  1.Standar - Pemberian makan 3x sehari
+  2.Spesial - (Standar) + Dimandikan 1x sehari
+  3.Istimewa - (Spesial) + Dimandikan 2x sehari + vitamin setiap selesai makan 
+• Pembuatan kode pengambilan hewan
+• Pelanggan mendapat struk untuk pengambilan hewan
+
+[ Pengambilan ]
+• Input kode pengambilan hewan
+• Melakukan pembayaran - cash only ( aplikasi kasir )
+• Pelanggan mendapat struk pembayaran
+
+[ Asuransi Hewan ]
+• Apabila hewan sakit saat pengambilan, pembayaran hanya 50% dari seharusnya
+• Apabila hewan mati di penitipan maka diganti rugi dengan  harga yg harusya dibayar pelanggan
+
+[ Harga Paket ]
+_____________________________________________
+
+No. jenis hewan ras     Paket       Harga
+_____________________________________________
+
+1   Anjing      Small   Standar     17000
+                        Spesial     17500
+                        Stimewa     18000
+
+                Medium  Standar     18500
+                        Spesial     19000
+                        Stimewa     19500
+
+                Large   Standar     20000
+                        Spesial     20500
+                        Stimewa     21000
+
+                Giant   Standar     21500
+                        Spesial     22000
+                        Stimewa     22500
+
+2   Kucing      Small   Standar     23000
+                        Spesial     23500
+                        Stimewa     24000
+
+                Medium  Standar     24500
+                        Spesial     25000
+                        Stimewa     25500
+
+                Large   Standar     26000
+                        Spesial     26500
+                        Stimewa     27000
+
+                Giant   Standar     27500
+                        Spesial     28000
+                        Stimewa     28500

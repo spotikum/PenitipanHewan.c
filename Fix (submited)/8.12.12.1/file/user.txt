@@ -1,0 +1,4 @@
+admin	ok	1
+indra	w	1
+wahyu	y	2
+beteng	bet	2
